@@ -23,13 +23,16 @@
   
   <h1 align="center">Redes Sociais</h1>
     <a href = "mailto: contadoitalo911@gmail.com">
-      <img width="30" src="gmail.svg">
+      <img width="35" src="gmail.svg">
     </a>
     <a href = "https://www.linkedin.com/in/italomirandafont/">
       <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
     </a>
     <a href = "https://ital023.github.io/ItaloPortfolio/">
       <img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/polygon/polygon-original.svg">
+    </a>
+    <a href = "https://www.instagram.com/italo_m20/">
+      <img width="35" src="instagram(1).png">
     </a>
 </div>
   
