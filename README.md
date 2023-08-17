@@ -13,7 +13,7 @@
 <a href="www.linkedin.com/in/italomirandafont" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
   
-  ### Estudando atualmente:
+  ### Minhas Habilidades:
   <img align="center" alt="Italo-Csharp" height="90" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg">
   <img align="center" alt="Italo-Java" height="90" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg">
   <img align="center" alt="Italo-Javascript" height="90" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
