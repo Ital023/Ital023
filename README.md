@@ -1,38 +1,23 @@
-## Olá, eu sou o Ítalo
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00008B&height=120&section=header"/>
 
-<div>
-  
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=Ital023&theme=dark&show_icons=true"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ital023&layout=compact&langs_count=16&theme=dark"/>
-</div>
-<br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=87CEFA&size=35&center=true&vCenter=true&width=1000&lines=Hello!+Meu+nome+é+Italo+Miranda;eu+tenho+19+anos;Eu+estou+estudando+Back+end+&+ciências+da+computação+;Seja+Bem-vindo!+:%29)](https://git.io/typing-svg)
 
-<div  align="center"> 
-  <div style="display: inline_block"><br>
-    <img align="left" height="250" alt="coding-time" src="code.gif">
-    <h1 align="center">Minhas Tecnologias</h1>
-    <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" height="30" width="40" alt="react-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg">
-    <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" height="30" width="40" alt="c-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-   </div>
-    
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Jgabrielmds&show_icons=true&count_private=true&hide_border=true&title_color=87CEFA&icon_color=87CEFA&text_color=c9d1d9&bg_color=0d1117" alt="João Gabriel github stats" /> 
+ 
+
+
+<div align="center"> 
+<a href="https://www.instagram.com/jgabrielmds" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href = "mailto:contatojgabrielmonteiro@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-gabriel-monteiro-77a403263/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+ </div>
   
-  <h1 align="center">Redes Sociais</h1>
-    <a href = "mailto: contadoitalo911@gmail.com">
-      <img width="35" src="gmail.svg">
-    </a>
-    <a href = "https://www.linkedin.com/in/italomirandafont/">
-      <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
-    </a>
-    <a href = "https://ital023.github.io/ItaloPortfolio/">
-      <img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/polygon/polygon-original.svg">
-    </a>
-    <a href = "https://www.instagram.com/italo_m20/">
-      <img width="35" src="instagram(1).png">
-    </a>
-</div>
+  ### Estudando atualmente:
+  <img align="center" alt="Rafa-Csharp" height="90" width="120" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="Rafa-Csharp" height="90" width="120" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   
+  
+  
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00008B&height=120&section=footer"/>
