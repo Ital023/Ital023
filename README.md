@@ -14,11 +14,10 @@
  </div>
   
   ### Minhas Habilidades:
-  <img align="center" alt="Italo-Csharp" height="90" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg">
+  <img align="center" alt="Italo-BootStrap" height="90" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Italo-Java" height="90" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg">
   <img align="center" alt="Italo-Javascript" height="90" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Italo-Html" height="90" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
-  <img align="center" alt="Italo-Css" height="90" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">
+  <img align="center" alt="Italo-Postgresql" height="90" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Italo-React" height="90" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg">
   
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=30b00c&height=120&section=footer"/>
