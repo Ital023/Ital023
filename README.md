@@ -22,4 +22,4 @@
   <img align="center" alt="Italo-React" height="90" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg">
 
   
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=30b00c&height=120&section=footer"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e61919&height=120&section=footer"/>
