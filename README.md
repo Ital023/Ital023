@@ -4,7 +4,7 @@
 
 ## About Me
 - Full Stack Developer
-- I’m currently learning Java Spring Boot & Angular
+- I’m currently learning Java Spring Boot & React
 
 ## My Techs
 <div align="left">
@@ -27,6 +27,8 @@
   <img src="https://skillicons.dev/icons?i=angular" height="45" alt="github logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="45" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="45" alt="github logo"  />
 
 </div>
 
