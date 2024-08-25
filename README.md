@@ -29,6 +29,9 @@
   <img src="https://skillicons.dev/icons?i=mongodb" height="45" alt="github logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="45" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="45" alt="github logo"  />
+
 
 </div>
 
