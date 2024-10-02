@@ -4,7 +4,7 @@
 
 ## About Me
 - Full Stack Developer
-- I’m currently learning Java Spring Boot & React
+- I’m currently learning Java Spring Boot, React & Flutter
 
 ## My Techs
 <div align="left">
